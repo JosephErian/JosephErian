@@ -31,7 +31,7 @@ I care about shipping software that's reliable and maintainable, not just functi
 ### Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-n6sz.onrender.com/" target="_blank">
+  <a href="https://josepherian.github.io/vcard-personal-portfolio" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-erian/" target="_blank">
